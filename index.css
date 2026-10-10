@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+}
+.til{
+    color: red;
+}
+#has{
+    color: green;
+}
+.nav{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: aqua;
+    padding: 15px;
+    text-align: center;
+}
+.nav a{
+    padding: 15px;
+    text-decoration: none;
+    color: brown;
+}
+.nav a:hover{
+    background-color: lightskyblue;
+    color:black;
+    text-decoration: underline;
+}
+body{
+    margin :0px;
+}
